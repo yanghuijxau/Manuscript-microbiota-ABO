@@ -1,0 +1,16 @@
+Tissue Adult Embryo
+blood 0 0
+brain 0 0
+cecum 71.406349 26.201192
+duodenum 101.172248 8.106014
+heart 0 0
+hypophysis 1.795631 0
+hypothalamus 0 0
+kidney 94.681108 31.73163
+liver 0 0.104449
+muscle 0 0
+lung 4.029177 0.149699
+skin 0.627902 0
+spinal-cord 0.228859 0
+spleen 0 0
+stomach 65.5502 4.358922
