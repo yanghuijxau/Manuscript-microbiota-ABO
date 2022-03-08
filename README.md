@@ -8,6 +8,6 @@ Repository contains:
 
 -16S_analysis files containing the shell code of 16S rRNA sequencing analysis pipeline.
 
--R code for mGWAS, eQTL analysis.
+-Soure data for manuscript
 
 -Transcriptome files for the pipeline analysis of RNASeq data
